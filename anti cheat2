@@ -1,7 +1,7 @@
 — yo
 
 local WhitelistedUserIds = {
-    [""] = true,
+    ["1539647615"] = true,
     [""] = true,
 
 }
